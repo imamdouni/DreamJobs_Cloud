@@ -1,0 +1,48 @@
+2023-08-23 14:24:38, suche nach Data Analyst
+2023-08-23 14:24:41, Browser geoeffnet
+2023-08-23 14:25:40, Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-23 14:25:40, link liste erstellt
+2023-08-23 14:25:48, 57349 in der datenbak bereits vorhanden
+2023-08-23 14:25:48, Abfrage begonnen
+2023-08-23 14:25:55, Daten wurden gezogen: https://de.linkedin.com/jobs/view/data-analyst-m-f-d-at-parts-europe-we-support-the-sport%C2%AE%21-3692596028?refId=fLB5%2F2C9nUXVl0R1avPFKg%3D%3D&trackingId=lu2xr561yh50hVkHNR0oVg%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:26:06, Daten wurden gezogen: https://de.linkedin.com/jobs/view/junior-data-analyst-m-w-d-stahlindustrie-at-univativ-gmbh-3690906992?refId=LFSKuNfh%2BFyx0l7Y9u629A%3D%3D&trackingId=MWkyJcDWLT82%2BbmtyhJv5g%3D%3D&position=6&pageNum=1&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:26:13, Daten wurden gezogen: https://de.linkedin.com/jobs/view/data-analyst-at-allianz-partners-3687064914?refId=fLB5%2F2C9nUXVl0R1avPFKg%3D%3D&trackingId=%2FnqjUEsH8oXQ3qCKi3zK6Q%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:26:26, Daten wurden gezogen: https://de.linkedin.com/jobs/view/data-analyst-at-gravitas-recruitment-group-global-ltd-3689224669?refId=fLB5%2F2C9nUXVl0R1avPFKg%3D%3D&trackingId=Rtgj%2BFOCGRBzx6R%2FOEYfcg%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:26:34, Abfrage abgebrochen !!!
+2023-08-23 14:26:34, Abfrage beendet
+2023-08-23 14:26:37, Browser geschlossen
+2023-08-23 14:26:40, Es wurden 4 Daten von LinkedIn hinzugefuegt
+2023-08-23 14:26:53, suche nach Data Analyst
+2023-08-23 14:26:57, Browser geoeffnet
+2023-08-23 14:27:22, Der Suchort oder Jobtitel wurde von LinkedIn abgeaendert, evtl. wurden wir als BOT erkannt!!!
+2023-08-23 14:27:29, Browser geschlossen
+2023-08-23 14:27:33, suche nach Datenanalyst:in
+2023-08-23 14:27:35, Browser geoeffnet
+2023-08-23 14:28:33, Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-23 14:28:33, link liste erstellt
+2023-08-23 14:28:40, 57353 in der datenbak bereits vorhanden
+2023-08-23 14:28:41, Abfrage begonnen
+2023-08-23 14:28:45, Daten wurden gezogen: https://de.linkedin.com/jobs/view/project-manager-pm-w-m-d-at-minth-group-3701484390?refId=vg4mp4cPDGpdzFyuE%2BESLw%3D%3D&trackingId=m%2FZkiARY0HO1%2FO1w8cqDIQ%3D%3D&position=17&pageNum=3&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:28:58, als Bot erkannt: https://de.linkedin.com/jobs/view/technischer-kundenberater-m-w-d-at-orizon-3693076413?refId=6tpo6F4KczC1uJdCO9ARhg%3D%3D&trackingId=Xva8tSh4O7UIEJ6EkZ6Ltw%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:29:03, Daten wurden gezogen: https://de.linkedin.com/jobs/view/junior-designer-in-berlin-f-m-d-at-mula-b2b-merchandise-platform-3690810466?refId=6tpo6F4KczC1uJdCO9ARhg%3D%3D&trackingId=GGxLlkiJYx8L%2BGBWFK6%2Fhw%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:29:16, Daten wurden gezogen: https://de.linkedin.com/jobs/view/mitarbeiter-im-vertriebsau%C3%9Fendienst-m-w-d-f%C3%BCr-die-abteilungen-platten-b%C3%B6den-t%C3%BCren-at-pilipp-holzwerkstoffe-3693077579?refId=IwysnUs9nYUDIVNrzzn35A%3D%3D&trackingId=BseuH1U4SvouAVIZqJM4tg%3D%3D&position=12&pageNum=6&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:29:25, Daten wurden gezogen: https://de.linkedin.com/jobs/view/elektrotechniker-m-w-d-at-orizon-3693077285?refId=vg4mp4cPDGpdzFyuE%2BESLw%3D%3D&trackingId=5tP2Ai0yEAr0o6OTGbAPxQ%3D%3D&position=20&pageNum=3&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:29:36, Daten wurden gezogen: https://de.linkedin.com/jobs/view/vorstandsassistent-m-w-d-social-media-at-schuler-group-3698311000?refId=vg4mp4cPDGpdzFyuE%2BESLw%3D%3D&trackingId=yM7CSmQOl%2F3Z%2F6dCTuurag%3D%3D&position=13&pageNum=3&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:29:49, Daten wurden gezogen: https://de.linkedin.com/jobs/view/creative-copywriter-in-instagram-tiktok-m-w-d-at-barkerz-gmbh-3698059458?refId=IwysnUs9nYUDIVNrzzn35A%3D%3D&trackingId=cZxxwD8wRL8R4JpBu81jhw%3D%3D&position=18&pageNum=6&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:30:02, Daten wurden gezogen: https://de.linkedin.com/jobs/view/mitarbeiter-in-im-technischen-vor-ort-support-ze-0077-hrz-mad-2023-at-philipps-universit%C3%A4t-marburg-3690695226?refId=vg4mp4cPDGpdzFyuE%2BESLw%3D%3D&trackingId=wNCv9srb9FcBTQ13d8Q9Sw%3D%3D&position=25&pageNum=3&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:30:19, Daten wurden gezogen: https://de.linkedin.com/jobs/view/elektroniker-m-w-d-at-synergie-personal-deutschland-gmbh-3690684504?refId=vg4mp4cPDGpdzFyuE%2BESLw%3D%3D&trackingId=5m%2BztBmBKbnPGtDdbkS2Ag%3D%3D&position=10&pageNum=3&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:30:31, Daten wurden gezogen: https://de.linkedin.com/jobs/view/manufacturing-engineer-at-canadian-executive-search-group-usa-inc-division-of-arrow-group-of-companies-3693533734?refId=0n6JQegWYaw0BbBp1cVNmw%3D%3D&trackingId=MKApbbAhA44kRXAPZ3cT%2BA%3D%3D&position=14&pageNum=1&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:30:46, Daten wurden gezogen: https://de.linkedin.com/jobs/view/assistenz-m-w-d-elearning-project-management-at-synergie-personal-deutschland-gmbh-3690686157?refId=0n6JQegWYaw0BbBp1cVNmw%3D%3D&trackingId=JFe2nkYBdIOfPYU4CM5rpg%3D%3D&position=20&pageNum=1&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:30:57, Daten wurden gezogen: https://de.linkedin.com/jobs/view/personalreferent-in-m-w-d-at-treubuch-colonia-potberg-partnerschaft-wpg-stbg-3701489220?refId=IwysnUs9nYUDIVNrzzn35A%3D%3D&trackingId=LfD3ovpKWyfbPixMURP9kQ%3D%3D&position=2&pageNum=6&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:31:12, Daten wurden gezogen: https://de.linkedin.com/jobs/view/b%C3%BCrokraft-m-w-d-at-orizon-3693077292?refId=6tpo6F4KczC1uJdCO9ARhg%3D%3D&trackingId=X52uM1FjYuiogaa8EPOFSg%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:31:22, Daten wurden gezogen: https://de.linkedin.com/jobs/view/account-manager-m-w-d-im-projektmanagement-veranstaltungen-at-messe-und-congress-centrum-halle-m%C3%BCnsterland-gmbh-3693077562?refId=IwysnUs9nYUDIVNrzzn35A%3D%3D&trackingId=n3QgIE9qs9aw5dasGoGMiQ%3D%3D&position=25&pageNum=6&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:31:35, Daten wurden gezogen: https://de.linkedin.com/jobs/view/empfangskraft-m-w-d-interne-anstellung-at-office-people-personalmanagement-gmbh-3693089515?refId=4b3C9eHtPAk1cf0KGYU2gg%3D%3D&trackingId=%2BSNSyPJjXlz3NS%2FI1xCVmA%3D%3D&position=18&pageNum=5&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:31:54, Daten wurden gezogen: https://de.linkedin.com/jobs/view/produktionsmitarbeiter-m-w-d-elektronikfertigung-at-synergie-personal-deutschland-gmbh-3690680944?refId=0n6JQegWYaw0BbBp1cVNmw%3D%3D&trackingId=lI9H8igelU0e3k6Om7r4WA%3D%3D&position=9&pageNum=1&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:32:09, Daten wurden gezogen: https://de.linkedin.com/jobs/view/servicetechniker-m-w-d-hannover-berlin-und-dresden-at-dr-schnell-gmbh-co-kgaa-3693082325?refId=6IwPYpuEXL%2F3RYLF%2B3raIg%3D%3D&trackingId=C4HOg5wExOiBkwiZMlyRGQ%3D%3D&position=15&pageNum=4&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:32:26, Daten wurden gezogen: https://de.linkedin.com/jobs/view/product-manager-berlin-at-resident-advisor-3690832792?refId=6tpo6F4KczC1uJdCO9ARhg%3D%3D&trackingId=2%2FZ4dNFF2RoLdWUzR8YcoA%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card
+2023-08-23 14:32:33, Abfrage abgebrochen !!!
+2023-08-23 14:32:34, Abfrage beendet
+2023-08-23 14:32:38, Browser geschlossen
+2023-08-23 14:32:46, Es wurden 17 Daten von LinkedIn hinzugefuegt
+2023-08-23 14:32:50, suche nach Business Intelligence Analyst 
+2023-08-23 14:32:52, Browser geoeffnet

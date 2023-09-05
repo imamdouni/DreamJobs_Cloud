@@ -1,0 +1,8 @@
+2023-08-25 15:40:12, Suche nach BI Analyst in Deutschland
+2023-08-25 15:41:24, Suche nach Business Intelligence in Deutschland
+2023-08-25 15:42:41, Suche nach Data Analyst in Deutschland
+2023-08-25 15:44:06, Suche nach Data Consultant in Deutschland
+2023-08-25 15:45:35, Suche nach Data Engineer in Deutschland
+2023-08-25 15:46:49, Suche nach Data Expert  in Deutschland
+2023-08-25 15:48:07, Suche nach Data Scientist in Deutschland
+2023-08-25 15:49:19, Suche nach Data Specialist in Deutschland
